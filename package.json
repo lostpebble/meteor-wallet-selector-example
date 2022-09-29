@@ -21,6 +21,7 @@
     "@near-wallet-selector/core": "^7.0.3",
     "@near-wallet-selector/modal-ui": "^7.0.3",
     "@near-wallet-selector/meteor-wallet": "^7.0.3",
+    "@near-wallet-selector/my-near-wallet": "^7.0.3",
     "vite-plugin-node-stdlib-browser": "^0.1.1",
     "prettier": "^2.7.1"
   }
